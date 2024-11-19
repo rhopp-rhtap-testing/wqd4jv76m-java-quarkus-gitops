@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: wqd4jv76m-java-quarkus-repository
+spec:
+  url: https://github.com/rhopp-rhtap-testing/wqd4jv76m-java-quarkus
